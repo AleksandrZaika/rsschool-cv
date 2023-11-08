@@ -12,18 +12,18 @@ Highly motivated and ambitious IT professional seeking a dynamic opportunity as 
 * SEO
 * JavaScript (Basics)
 ## Code Example
-```function capitalizeWord(word) {
-  return word[0].toUpperCase() + word.slice(1);
+```function capitalizeWord(word) {  
+  return word[0].toUpperCase() + word.slice(1);  
 }
 ```
 ## Work Experience
-* **Renewal Account Manager**
+* **Renewal Account Manager**  
 McAfee, Cork. August 2020 - April 2023
-* **Channel Support Advisor**
+* **Channel Support Advisor**  
 Apple, Cork. June 2016 - August 2020
 ## Education
-* **Vilnius Gediminas Technical University**
-Bachelor of Science
-Automotive Engineering Honors
+* **Vilnius Gediminas Technical University**  
+Bachelor of Science  
+Automotive Engineering Honors  
 ## English Language 
 Fluent
