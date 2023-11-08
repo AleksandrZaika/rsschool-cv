@@ -7,8 +7,8 @@
 ## About
 Highly motivated and ambitious IT professional seeking a dynamic opportunity as a Junior Front End Developer. With a proven track record in sales and a strong foundation in business acumen, I am well-equipped to pursue my new career.
 ## Skills
-* HTML
-* CSS
+* HTML5
+* CSS3
 * SEO
 * JavaScript (Basics)
 ## Code Example
