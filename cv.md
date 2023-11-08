@@ -3,7 +3,7 @@
 * **Location**: Ireland, Cork
 * **Phone**: +353831919244
 * **E-mail**: saniokzaika@gmail.com
-* **GitHub**: AleksandrZaika  
+* **GitHub**: AleksandrZaika 
 ## About
 Highly motivated and ambitious IT professional seeking a dynamic opportunity as a Junior Front End Developer. With a proven track record in sales and a strong foundation in business acumen, I am well-equipped to pursue my new career.
 ## Skills
@@ -27,4 +27,4 @@ Apple, Cork. June 2016 - August 2020
 Bachelor of Science  
 Automotive Engineering Honors  
 ## English Language 
-Fluent
+Fluent 
