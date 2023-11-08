@@ -13,9 +13,8 @@ Highly motivated and ambitious IT professional seeking a dynamic opportunity as 
 * JavaScript (Basics)
 ## Code Example
 ```
-
-function capitalizeWord(word) {  
-  return word[0].toUpperCase() + word.slice(1);  
+function capitalizeWord(word) {
+  return word[0].toUpperCase() + word.slice(1);
 }
 ```
 ## Work Experience
