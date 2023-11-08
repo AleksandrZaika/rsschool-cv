@@ -3,7 +3,7 @@
 * **Location**: Ireland, Cork
 * **Phone**: +353831919244
 * **E-mail**: saniokzaika@gmail.com
-* **GitHub**: AleksandrZaika
+* **GitHub**: AleksandrZaika  
 ## About
 Highly motivated and ambitious IT professional seeking a dynamic opportunity as a Junior Front End Developer. With a proven track record in sales and a strong foundation in business acumen, I am well-equipped to pursue my new career.
 ## Skills
@@ -12,7 +12,9 @@ Highly motivated and ambitious IT professional seeking a dynamic opportunity as 
 * SEO
 * JavaScript (Basics)
 ## Code Example
-```function capitalizeWord(word) {  
+```
+
+function capitalizeWord(word) {  
   return word[0].toUpperCase() + word.slice(1);  
 }
 ```
